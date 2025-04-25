@@ -1,6 +1,6 @@
-url: https://imamnawawi1c.github.io/
+url: 'https://imamnawawi1c.github.io/'
 
-plugins:
+plugins :
  - jekyll-feed
  - jekyll-sitemap
  - jekyll-seo-tag
