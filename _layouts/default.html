@@ -6,7 +6,11 @@
     <title>{{ page.title }}</title>
       <!--css-->
       <link rel="stylesheet" href="{{ site.baseurl }}/assets/css/styles.css">
-    <!--java script-->
+       
+      <!--Favicon -->
+      <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    
+      <!--java script-->
     <script src="{{ site.baseurl }}/assets/js/script.js"></script>
     <!--plugins-->
     {% feed_meta %}
@@ -15,7 +19,25 @@
 
 </head>
 <body>
-    {% include navigation.html %}
-    {{content}}
+    
 </body>
 </html>
+      <div class="container">
+        <h1> {{ site.title }}</h1>
+        <p> {{ site.description }}</p>
+
+        <nav>
+          {% include navigation.html %}
+        </nav>
+
+        <main>
+          {{ content }}
+        </main>
+
+        <footer>
+          <p> &copy; {{ site.time | date: '%Y' }} {{ site.title }}. All right reserved</p>
+        </footer>
+       
+      </div>
+</body>
+</html>  
