@@ -1,5 +1,5 @@
 $primary-color: #0a0702;
-$secondary-color:#f5881a;
+$secondary-color:#6b3c0c;
 $font-stack: Helvetica, sans-serif;
 
 body,
@@ -11,7 +11,10 @@ p {
 
 body {
     font-family: $font-stack; line-height: 1.6;
-    background-color:rgb(242, 222, 197);
+    background-color:rgb(255, 245, 233);
+    background-image: url(/assets/image/background.jpg);
+    background-size: 1600px;
+
 }
 
 header {
@@ -25,6 +28,9 @@ main {
     box-shadow: 0 0 8px rgba(0, 0, 0, 0.1);
     background-color:white;
     border-radius: 30px;
+    h1{
+        text-align: center;
+    }
 }
 
 footer {
@@ -33,7 +39,7 @@ footer {
 }
 
 h2 {
-    color:#333; margin-bottom: 8px;
+    color:#010101; margin-bottom: 8px;
 }
 
 nav {
@@ -98,11 +104,12 @@ nav {
     color: black;
     font-weight: 500;
     box-shadow: 0 5px 8px rgba(0, 0, 0, 0.2);
+    transition: 0.2s ease;
 }
 
 .friends-page a:hover{
-    background-color:rgb(211, 239, 247) ;
-    transform:rotate(10deg);
+    background-color:#85582b;
+    transform:rotate(4deg);
 
 }
   

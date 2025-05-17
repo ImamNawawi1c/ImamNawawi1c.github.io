@@ -14,7 +14,7 @@ title: Friends
     <a href="https://bunga-hub.github.io/">Bunga Alfa Zahra</a>
     <a href="http://devarisny.github.io">Deva Risny</a>
     <a href="https://fathan-mubina.github.io/">Fathan Mubina</a>
-    <a href="http://faqriyadiandika.github.io">faqriyadi Andika</a>
+    <a href="http://faqriyadiandika.github.io">Faqriyadi Andika</a>
     <a href="https://faizul-abrar.github.io/">Faizul Abrar</a>
     <a href="https://firdhilaananda.github.io/">Firdhilla Ananda Syahputri</a>
     <a href="https://hamizan18.github.io/">Hamizan Putra Zulia</a>
