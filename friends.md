@@ -25,7 +25,7 @@ title: Friends
     <a hreff="https://izzati31.github.io/">Izzati Nurvira</a>
     <a href="https://jexiee99.github.io">Jelita Anggriani</a>
     <a href="https://kaisan969.github.io">Kaisan Nur Waled</a>
-    <a href="https://khairatilaini.github.io/">hairatil Aini</a>
+    <a href="https://khairatilaini.github.io/">Khairatil Aini</a>
     <a href="https://khalisha0zafira.github.io/">Khalisha Zafira</a>
     <a href="https://ledianaberasa.github.io/">Leadiana Berasa</a>
     <a href="https://lindawati26.github.io/">Lindawati</a>
